@@ -1,0 +1,19 @@
+{
+  "name": "ajudadobemapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joao-pedro01/AjudaDoBemAPI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joao-pedro01/AjudaDoBemAPI/issues"
+  },
+  "homepage": "https://github.com/joao-pedro01/AjudaDoBemAPI#readme"
+}
